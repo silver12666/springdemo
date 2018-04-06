@@ -1,0 +1,3 @@
+com\silver\controllers\HomeController.class
+com\silver\configuration\AppConfig.class
+com\silver\configuration\WebAppInitializer.class
